@@ -6,11 +6,11 @@ clustering methodology to effectively capture user’s group information. In the
 
 # Model
 <img src="https://user-images.githubusercontent.com/68312164/122628793-451b9d00-d0f3-11eb-845e-588bf3a66461.png"  width="350" height="320">
-<img src="https://user-images.githubusercontent.com/68312164/122628833-8f9d1980-d0f3-11eb-8a50-085f3a1ca26c.png"  width="350" height="320">
+<img src="https://user-images.githubusercontent.com/68312164/122629093-5e254d80-d0f5-11eb-9c06-f6f70fcdb93b.png"  width="350" height="320">
 <img src="https://user-images.githubusercontent.com/68312164/122628825-801dd080-d0f3-11eb-8faa-3c5b65c5881c.png"  width="350" height="320">
 
 
 # Experiment
-<img src="https://user-images.githubusercontent.com/68312164/122628848-aa6f8e00-d0f3-11eb-81f5-b8843cffec8c.png"  width="370" height="350">
+<img src="https://user-images.githubusercontent.com/68312164/122628848-aa6f8e00-d0f3-11eb-81f5-b8843cffec8c.png"  width="370" height="400">
 
 
