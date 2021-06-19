@@ -1,4 +1,4 @@
-# Advanced-NGCF
+# Advanced Neural Graph Collaborative Filtering based on time sampling
 
 # Abstract
 In this paper, we propose an advanced version of Neural Graph Collaborative Filtering in the perspective of time sampling. At first, by using side information such as social relationships and item ID, we suggest an advanced version of Heterogeneous Graph Neural Recommender (HGNR). Moreover, we adopted Agglomerative
@@ -12,6 +12,6 @@ clustering methodology to effectively capture user’s group information. In the
 
 # Experiment
 <img src="https://user-images.githubusercontent.com/68312164/122628848-aa6f8e00-d0f3-11eb-81f5-b8843cffec8c.png"  width="450" height="400">
-Detailed code is available at 
+Detailed code is available at https://github.com/rlqja1107/Graduation_Paper
 
 
