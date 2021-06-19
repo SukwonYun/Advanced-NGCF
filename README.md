@@ -11,7 +11,7 @@ clustering methodology to effectively capture user’s group information. In the
 
 
 # Experiment
-<img src="https://user-images.githubusercontent.com/68312164/122628848-aa6f8e00-d0f3-11eb-81f5-b8843cffec8c.png"  width="450" height="400">
+<img src="https://user-images.githubusercontent.com/68312164/122628848-aa6f8e00-d0f3-11eb-81f5-b8843cffec8c.png"  width="470" height="380">
 Detailed code is available at https://github.com/rlqja1107/Graduation_Paper
 
 
